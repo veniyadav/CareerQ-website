@@ -4,14 +4,14 @@ class ApiError extends Error {
     statusCode,
     message= "Something went worng",
     errors = [],
-    statck = ""
+    stack = ""
   ){
     super(message)
     this.statusCode = statusCode
     this.data=null
     this.message = message
     this.success = false
-    this.errors = serrors
+    this.errors = errors
 
     if(stack){
         this.stack = stack
