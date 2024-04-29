@@ -1,0 +1,112 @@
+[
+    {
+        "_id": "aa",
+        "type": "Flat",
+        "title": "best Flat is good",
+        "price": 4000,
+        "image": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1714307542~exp=1714311142~hmac=23f772509d8fff4637426eac992f7fcb03478e88434a7dfd8edb399c1428154c&w=826",
+        "city":"Indore",
+        "State":"Madhya pradesh",
+        "contory":"India",
+        "location":"160/1 gowardhan colony Rau"
+    },
+    {
+        "_id": "ab",
+        "type": "Room",
+        "title": "best rooms in best location",
+        "price": 5000,
+        "image": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1714307542~exp=1714311142~hmac=23f772509d8fff4637426eac992f7fcb03478e88434a7dfd8edb399c1428154c&w=826",
+        "city":"pune",
+        "State":"Maharashtra",
+        "contory":"India",
+        "location":"royal park ground"
+    },
+    {
+        "_id": "ac",
+        "type": "Flat",
+        "title": "good at location",
+        "price": 7000,
+        "image": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1714307542~exp=1714311142~hmac=23f772509d8fff4637426eac992f7fcb03478e88434a7dfd8edb399c1428154c&w=826",
+        "city":"Indore",
+        "State":"Madhya pradesh",
+        "contory":"India",
+        "location":"111/5 MR-10 vijay nagar"
+    },
+    {
+        "_id": "ad",
+        "type": "Hostal",
+        "title": "boys hostal",
+        "price": 2000,
+        "image": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1714307542~exp=1714311142~hmac=23f772509d8fff4637426eac992f7fcb03478e88434a7dfd8edb399c1428154c&w=826",
+        "city":"kota",
+        "State":"Rajesthan",
+        "contory":"India",
+        "location":"Mc/10 ias colony"
+    },
+    {
+        "_id": "ae",
+        "type": "Flat",
+        "title": "best Flat is good",
+        "price": 10000,
+        "image": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1714307542~exp=1714311142~hmac=23f772509d8fff4637426eac992f7fcb03478e88434a7dfd8edb399c1428154c&w=826",
+        "city":"Bengaluru",
+        "State":"Karnataka",
+        "contory":"India",
+        "location":"It park colony"
+    },
+    {
+        "_id": "af",
+        "type": "Hostal",
+        "title": "best Flat is good",
+        "price": 4000,
+        "image": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1714307542~exp=1714311142~hmac=23f772509d8fff4637426eac992f7fcb03478e88434a7dfd8edb399c1428154c&w=826",
+        "city":"devas",
+        "State":"Madhya pradesh",
+        "contory":"India",
+        "location":" godhan colony dev"
+    },
+    {
+        "_id": "ag",
+        "type": "Room",
+        "title": "best Room ",
+        "price": 2000,
+        "image": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1714307542~exp=1714311142~hmac=23f772509d8fff4637426eac992f7fcb03478e88434a7dfd8edb399c1428154c&w=826",
+        "city":"Ujjain",
+        "State":"Madhya pradesh",
+        "contory":"India",
+        "location":"199/1 gowardhan colony"
+    },
+    {
+        "_id": "ah",
+        "type": "Flat",
+        "title": "best Flat is good",
+        "price": 4000,
+        "image": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1714307542~exp=1714311142~hmac=23f772509d8fff4637426eac992f7fcb03478e88434a7dfd8edb399c1428154c&w=826",
+        "city":"Chandnichoak",
+        "State":"Delhi",
+        "contory":"India",
+        "location":" chandni choak colony "
+    },
+    {
+        "_id": "ai",
+        "type": "Room",
+        "title": "best Flat is good",
+        "price": 4000,
+        "image": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1714307542~exp=1714311142~hmac=23f772509d8fff4637426eac992f7fcb03478e88434a7dfd8edb399c1428154c&w=826",
+        "city":"Indore",
+        "State":"Madhya pradesh",
+        "contory":"India",
+        "location":" godhan colony dev"
+    },
+    {
+        "_id": "aj",
+        "type": "Hostal",
+        "title": "best Flat is good",
+        "price": 4000,
+        "image": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1714307542~exp=1714311142~hmac=23f772509d8fff4637426eac992f7fcb03478e88434a7dfd8edb399c1428154c&w=826",
+        "city":"gajipur",
+        "State":"Uttar Pradesh",
+        "contory":"India",
+        "location":" gajipur gaanv"
+    }
+]
